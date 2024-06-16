@@ -1,2 +1,2 @@
 ddd
-switch branch is quick and difficult.
+switch branch is quick.
